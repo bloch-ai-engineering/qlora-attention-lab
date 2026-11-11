@@ -31,7 +31,7 @@ Dolly-15k questions ──► Llama-3.3-70B (Nebius, async batched) ──► 3 
 | **SmolLM2-360M-Instruct** | 22 / 54 (41%) | Clearly learned to adapt its register. Child: *"like the boss's office"*. Expert: *"designated as such by the state's constitution"* |
 | flan-t5-small | 21 / 54 (39%) | The counts look similar, but the outputs collapsed into gibberish |
 
-**Takeaway:** a raw "improved" count hides a lot. Read the outputs. At this scale, the decoder-only instruct model handled level-adaptive generation far better than the 60M-parameter encoder-decoder model. Both still hallucinate facts, which is expected at this size.
+**Takeaway:** a raw "improved" count hides a lot. Read the outputs. At this scale, the decoder-only instruct model handled level-adaptive generation far better than the ~77M-parameter encoder-decoder model. Both still hallucinate facts, which is expected at this size.
 
 The notebook also answers conceptual questions: why QLoRA saves memory, the trade-offs of LoRA rank, and when fine-tuning beats prompt engineering.
 
