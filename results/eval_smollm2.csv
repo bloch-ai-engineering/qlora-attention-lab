@@ -1,0 +1,82 @@
+Q,Question,Level,Base Output,Fine-tuned Output,Expected Answer,Better?,Notes
+1,What is an architecture diagram?,child,A software architecture is a detailed description of the overall structure of a ,"An architecture diagram is like a map of how a computer system is made, showing ","An architecture diagram is like a blueprint of a building, but instead of a hous",No,
+2,What is an architecture diagram?,student,An architecture diagram is a visual representation of a software system or compo,An architecture diagram is a visual representation of a software system's compon,An architecture diagram is a visual representation of a system's structure and c,No,
+3,What is an architecture diagram?,expert,An architecture diagram is a visual representation of a software system's compon,An architecture diagram is a visual representation of a software system's design,An architecture diagram is a graphical representation of a system's architecture,Yes,
+4,How many oceans in the world?,child,"The Earth has five oceans.
+
+Are you ready to answer this question?","There are seven oceans in the world, like the ocean in the ocean. It's like the ","There are five oceans in the world: the Pacific, Atlantic, Indian, Arctic, and S",Yes,
+5,How many oceans in the world?,student,The oceans are divided into several divisions based on their location and depth.,"The Earth is home to seven oceans, which are the largest and most notable of the","The world is divided into five distinct oceans: the Pacific Ocean, Atlantic Ocea",No,
+6,How many oceans in the world?,expert,"The Atlantic Ocean
+### Explanation:
+The Atlantic Ocean is the largest ocean in t","The Earth is inhabited by a vast array of oceanic systems, spanning the globe, i",The International Hydrographic Organization (IHO) recognizes five distinct ocean,Yes,
+7,How many feet are in 1 mile?,child,"1 mile is equal to 1760 yards or 5280 feet.
+
+Explanation:
+A mile is defined as 1","There are 1,000 feet in 1 mile. Imagine you have a big piece of paper, and if yo",Imagine you have a really long ruler that measures a mile. If you divided that r,No,
+8,How many feet are in 1 mile?,student,1 mile is equal to 1760 feet.,"1 mile is equal to 1,760 yards (400 feet), which is 1,609.37 feet.","A mile is a unit of distance, and it is equal to 5,280 feet. This conversion fac",Yes,
+9,How many feet are in 1 mile?,expert,"1 mile is equal to 5280 feet.
+
+### Instruction:
+You are given a sentence in Ital",The conversion of miles to feet is a fundamental mathematical concept in the con,The unit conversion between miles and feet is based on the definition of a mile ,No,
+10,Why should I move to New York City?,child,"To move to New York City, you should consider the following factors:
+
+* The cost",New York City is a really cool place to live because it's super close to the sea,You should move to New York City because it's like a big playground with lots of,No,
+11,Why should I move to New York City?,student,"Yes, New York City is a good place to live. It has many job opportunities and ma","New York City offers a unique blend of cultural, financial, and entertainment op","New York City offers unparalleled opportunities for career advancement, cultural",Yes,
+12,Why should I move to New York City?,expert,New York City is a vibrant metropolis that offers a wide range of opportunities ,"The allure of New York City is multifaceted, entwining its unique blend of histo",Relocating to New York City can be a strategic decision for individuals seeking ,Yes,
+13,What is the capital of Colorado?,child,"Colorado is the capital of Colorado.
+
+Did you know? The capital of Colorado is B","The capital of Colorado is Denver. It's like the main city in a country, where a",The capital of Colorado is Denver. Think of it like the boss's office in the who,No,
+14,What is the capital of Colorado?,student,"Colorado is the capital of Colorado.
+
+Question:
+What is the capital of the Unite",The capital of Colorado is Denver. Denver is a city located in the Rocky Mountai,"The capital of Colorado is Denver. A capital city is the seat of government, whe",No,
+15,What is the capital of Colorado?,expert,"Colorado is the capital of Colorado.
+
+This is the correct answer to the question","The capital of Colorado is Denver, which is situated in the state's Rocky Mounta","The capital of Colorado is Denver, designated as such by the state's constitutio",No,
+16,What is the difference between a compact,child,A compact car is a car that is smaller than an economy car. A compact car is usu,Imagine you're buying a big box of toys. A compact car is like a big box that fi,Think of cars like shoes. Compact cars are like smaller shoes that are easier to,Yes,
+17,What is the difference between a compact,student,"A compact car is a vehicle designed for urban driving, typically with a smaller ",The difference between a compact and an economy-sized car lies in their size and,"The main difference between compact and economy-sized cars is their size, featur",No,
+18,What is the difference between a compact,expert,The difference between a compact and economy-sized car lies in their size and fe,The distinction between compact and economy-sized cars lies in their vehicle dim,"Compact and economy-sized cars differ in their vehicle classification, based on ",No,
+19,What is the tallest building in Chicago?,child,"The tallest building in Chicago is the Willis Tower, also known as the Sears Tow","The tallest building in Chicago is the Willis Tower, also known as the Sears, Ma","The Willis Tower, which used to be called the Sears Tower, is the tallest buildi",Yes,
+20,What is the tallest building in Chicago?,student,"The tallest building in Chicago is the Willis Tower, also known as the Sears Tow","The Chicago Tribune Building, also known as the Tribune Tower, is the tallest bu","The Willis Tower, formerly known as the Sears Tower, is the tallest building in ",Yes,
+21,What is the tallest building in Chicago?,expert,"The tallest building in Chicago is the Willis Tower, also known as the Sears Tow",The tallest building in Chicago is the Willis Tower (formerly known as the Sears,"The Willis Tower, designed by architects Skidmore, Owings & Merrill, is the tall",Yes,
+22,What is the difference between retinol a,child,Tretinoin is a derivative of retinoic acid and is used as a topical treatment fo,Retinol and tretinoin are both types of retinoid creams that help your skin look,"Retinol and tretinoin are both used to help your skin look better, but they work",Yes,
+23,What is the difference between retinol a,student,"Retinol and tretinoin are both forms of vitamin A, but they have different activ","Retinol and tretinoin are both vitamin A derivatives used to treat acne, but the","Retinol and tretinoin are both derivatives of vitamin A, used in skincare for th",No,
+24,What is the difference between retinol a,expert,Retinol and tretinoin are both retinol derivatives used to treat various skin co,"Retinol and tretinoin are both derivatives of vitamin A, but they differ in thei",The distinction between retinol and tretinoin hinges on their pharmacokinetics a,No,
+25,What is the holiday of Passover about?,child,Passover is a Jewish holiday that commemorates the Israelites' enslavement in Eg,The holiday of Passover is about remembering a special event that happened a lon,Passover is a holiday that remembers when the Jewish people were freed from bein,No,
+26,What is the holiday of Passover about?,student,Passover is a Jewish holiday commemorating the liberation of the Israelites from,Passover commemorates the Israelites' exodus from Egypt under the leadership of ,"Passover, also known as Pesach, is a significant Jewish holiday that commemorate",No,
+27,What is the holiday of Passover about?,expert,Passover is a Jewish holiday that commemorates the Israelites' exodus from Egypt,"The Passover holiday, celebrated with the Seder meal, is a multifaceted observan","Passover, or Pesach in Hebrew, is a week-long Jewish festival that celebrates th",Yes,
+28,How many episodes of the first season of,child,Alan Taylor directed 15 episodes of the first season of Game of Thrones.,"Alan Taylor directed five episodes of the first season of Game of Thrones, which","Alan Taylor directed some episodes of the first season of Game of Thrones, and t",Yes,
+29,How many episodes of the first season of,student,"Alan Taylor directed 6 episodes of the first season of Game of Thrones.
+
+Questio","Alan Taylor directed four episodes of the first season of Game of Thrones, which","In the first season of Game of Thrones, Alan Taylor was responsible for directin",No,
+30,How many episodes of the first season of,expert,"Alan Taylor directed the first season of Game of Thrones, which aired from Novem","Alan Taylor's contributions to Game of Thrones are multifaceted, encompassing no",Alan Taylor's directorial involvement in the inaugural season of Game of Thrones,Yes,
+31,What is AWS EMR?,child,AWS Elastic MapReduce (EMR) is a software framework for parallel processing of d,"AWS EMR, or Elastic Load Balancing, is a system that helps manage the amount of ",AWS EMR is like a super powerful computer that helps people work with really big,No,
+32,What is AWS EMR?,student,AWS EMR (Elastic MapReduce) is an open-source distributed computing platform for,"AWS EMR is a scalable, self-service platform for managing and optimizing big dat",AWS EMR (Elastic MapReduce) is a cloud-based big data processing service offered,No,
+33,What is AWS EMR?,expert,"AWS Elastic Map Reduce (EMR) is a scalable, pay-as-you-go compute engine that al","AWS Elastic MapReduce (EMR) is a cloud-based, high-throughput computing platform",AWS EMR is a fully managed service that enables users to run distributed computi,No,
+34,What is the difference between a simile ,child,"A simile is a comparison of two unlike things using ""like"" or ""as,"" whereas a me",A simile is like a comparison where you say one thing is like another thing. It',A simile is like a comparison that uses 'like' or 'as' to say two things are sim,Yes,
+35,What is the difference between a simile ,student,"A simile is a figure of speech that compares two unlike things using the words ""","A simile and a metaphor are both literary devices used to make comparisons, but ","A simile and a metaphor are both literary devices used to make comparisons, but ",No,
+36,What is the difference between a simile ,expert,"A simile is a figure of speech that compares two unlike things using the words """,The distinction between a simile and a metaphor lies in their linguistic and str,The distinction between simile and metaphor lies in their respective semantic an,No,
+37,"If I have a dollar, two nickels and a qu",child,100 + 25 = 1,"You have $0.02 in total, just like if you had 2 pennies, 2 nickels, and 2 quarte",$1.30,Yes,
+38,"If I have a dollar, two nickels and a qu",student,"2 + 2 + 0.25 = 4.50
+
+What is the final answer?","25 cents (dollar) + 2 nickels + 1 quarter = 35 cents, the total amount of money ",$1.30,Yes,
+39,"If I have a dollar, two nickels and a qu",expert,"20.00
+
+The answer is: 20.00","You have 25 cents, 25 cents, 25 cents, and 25 cents, which equals 50 cents, and ",$1.30,Yes,
+40,What is the Genomie Aggregation Databais,child,genomAD is a database used to store information about genes in the Human Genome ,"The Genomie Aggregation Databaise (GenomAD) is like a big, smart database where ","The Genome Aggregation Database, or genomAD, is like a big library that stores i",No,
+41,What is the Genomie Aggregation Databais,student,The Genomie Aggregation Databaise (genomAD) is a large-scale electronic health r,The GenomAd is a database that stores and manages genomic data from various sour,The Genome Aggregation Database (genomAD) is a comprehensive repository of human,No,
+42,What is the Genomie Aggregation Databais,expert,The Genomie Aggregation Databaise (genomAD) is a dataset that contains informati,The GenomAd is a proprietary data management platform developed by the Universit,"The Genome Aggregation Database (genomAD) is a widely-used, open-access resource",No,
+43,How do I find the best interior decorato,child,"To find the best interior decorator and best price, you should consider the foll","To find the best interior decorator, you can ask your parents or a trusted adult","To find the best interior decorator and get a good price, you can ask your frien",No,
+44,How do I find the best interior decorato,student,"To find the best interior decorator and best price, you should consider the foll","To find the best interior decorator and best price, you can start by researching",Finding the best interior decorator at a good price involves research and compar,No,
+45,How do I find the best interior decorato,expert,"To find the best interior decorator and best price, you can follow these steps:
+",The choice of interior decorator and price point is a complex decision that nece,"To optimize the selection of an interior decorator and negotiate the best price,",No,
+46,How to plan a Lakehouse migration journe,child,"1. Choose the destination lake:
+Choose a lake that you like, as it will make the",Planning a Lakehouse migration journey is like planning a big trip with friends.,"Imagine you're moving to a new house on a lake. You need to pack your things, de",No,
+47,How to plan a Lakehouse migration journe,student,"To plan a Lakehouse migration journey, start by defining your objectives and the","Planning a lakehouse migration journey involves several steps, including researc","Planning a Lakehouse migration journey involves several steps. First, you need t",No,
+48,How to plan a Lakehouse migration journe,expert,1. Start by defining the purpose and scope of the Lakehouse migration journey. D,"A Lakehouse migration journey, also known as a winter home relocation, involves ",A Lakehouse migration journey entails a comprehensive methodology to transition ,No,
+49,What is the best way to feel peaceful in,child,"To feel peaceful in your mind, you can practice mindfulness and meditation. Mind","Feeling peaceful in your mind is like taking a quiet breath, it's a way to relax","Imagine you're in a quiet forest, surrounded by trees and birds singing. To feel",Yes,
+50,What is the best way to feel peaceful in,student,The best way to feel peaceful in your mind is to focus on your breath. This simp,"The best way to feel peaceful in your mind is through mindfulness meditation, wh",Feeling peaceful in your mind can be achieved through a combination of self-care,No,
+51,What is the best way to feel peaceful in,expert,"Meditation helps reduce stress by training your mind to stay focused and calm, a",The optimal state of mind for achieving a sense of peace is to cultivate a state,The attainment of mental peace can be facilitated through the implementation of ,No,
+52,Name some TV shows that American actor D,child,"American actor David Duchovny has appeared in numerous TV shows, including ""The ","David Duchovny has been in shows like ""The Sopran"" and ""The Sopran 2"", which are",David Duchovny has been in TV shows like 'The X-Files' where he played a cool FB,Yes,
+53,Name some TV shows that American actor D,student,"American actor David Duchovny has been in numerous TV shows, including ""Stranger","David Duchovny has appeared in numerous television shows, including ""The Walking",David Duchovny is known for his roles in several notable TV shows. One of his mo,Yes,
+54,Name some TV shows that American actor D,expert,"American actor David Duchovny has been in numerous TV shows, including ""Stranger",David Duchovny's extensive career has spanned a diverse array of television show,David Duchovny's television repertoire encompasses a diverse range of genres and,Yes,

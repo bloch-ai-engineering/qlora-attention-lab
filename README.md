@@ -41,6 +41,18 @@ The notebook also answers conceptual questions: why QLoRA saves memory, the trad
 - **Change one word** ("cat" → "dog"): the attention pattern shifts slightly, following the change in meaning.
 - **Multiple heads** with separate W_Q, W_K and W_V projections focus on different tokens. This is the intuition behind multi-head attention: each head attends in its own representation subspace.
 
+## Project structure
+
+```
+├── notebooks/qlora_finetuning_and_attention.ipynb  # both parts, outputs included
+├── data/
+│   ├── train_level_adaptive.jsonl   # generated training set (question × child/student/expert)
+│   └── test_level_adaptive.jsonl    # held-out test set
+└── results/
+    ├── eval_smollm2.csv             # base vs. fine-tuned vs. expected, per case
+    └── eval_flant5.csv
+```
+
 ## Run it
 
 Built for Google Colab with a T4 GPU. Set `NEBIUS_API_KEY` as a Colab secret (only needed to regenerate the dataset).
