@@ -4,6 +4,13 @@
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-attention-ee4c2c) ![PEFT](https://img.shields.io/badge/PEFT-QLoRA-yellow) ![bitsandbytes](https://img.shields.io/badge/bitsandbytes-4--bit%20NF4-green) ![TRL](https://img.shields.io/badge/TRL-SFT-black)
 
+**Notebooks**: for the best reading experience, open them in nbviewer (full-page rendering) or Colab:
+
+| Notebook | Read | Run |
+|---|---|---|
+| `qlora_finetuning_and_attention.ipynb` | [![nbviewer](https://img.shields.io/badge/view-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/bloch-ai-engineering/qlora-attention-lab/blob/main/notebooks/qlora_finetuning_and_attention.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bloch-ai-engineering/qlora-attention-lab/blob/main/notebooks/qlora_finetuning_and_attention.ipynb) |
+
+
 ## Part 1: Level-adaptive QA with QLoRA
 
 ```
